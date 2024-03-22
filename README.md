@@ -96,10 +96,13 @@ print(df)
 ### OUTPUT:
 #### Partial autocorrelation:
 <img width="652" alt="Partial" src="https://github.com/JEEVAABI/TSA_EXP4/assets/93427098/f7a7688f-ce7d-4cb2-b45d-ff4c2959217a">
+
 #### autocorrelation:
 <img width="652" alt="Auto" src="https://github.com/JEEVAABI/TSA_EXP4/assets/93427098/97a2f5c7-60c6-43d9-a316-534bb15dd8c6">
+
 #### Prediction Graph:
 <img width="658" alt="Pred" src="https://github.com/JEEVAABI/TSA_EXP4/assets/93427098/514cdddd-c6ee-41cc-8d4c-eaa51fe49cff">
+
 #### Test:
 <img width="635" alt="test_data" src="https://github.com/JEEVAABI/TSA_EXP4/assets/93427098/1748437e-e519-4212-b340-58d79873ee52">
 
